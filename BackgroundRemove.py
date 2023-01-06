@@ -6,14 +6,14 @@ from rembg import remove
 #capture person from given pic
 
 inputPic = 'babypic.png'
+backPic = 'bg1.png'
 outputPic = 'babypicput.png'
 
-#input_path = 'bp.jpg'
-#output_path = 'previewOut.jpg'
+# inputPic = 'tangtang.jpg'
+# backPic = 'bg2.png'
+# outputPic = "tangtang_out.jpg"
 
-# inputPic = 'inpic1.jpg'
-# outputPic = "inpic1_Out.jpg"
-backPic = 'bg2.png'
+
 input_path = inputPic
 output_path = outputPic
 
