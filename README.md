@@ -1,5 +1,6 @@
 # Background-Changer
 This program cuts out the portrait part from given pictures and combine the portrait part with new backgrounds to create new pictures.
+
 Eg:
 ![babypic](https://user-images.githubusercontent.com/79260872/211075746-ca6564e7-5eb1-46b0-9f1e-70240590716f.png)
 From this original picture of a baby we will get the portrait part as:
