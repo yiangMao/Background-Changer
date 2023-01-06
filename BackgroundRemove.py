@@ -74,7 +74,7 @@ background_img = cv2.imread(backPic)
 overlay_img = cv2.imread(output_path,cv2.IMREAD_UNCHANGED)
 orginal_img = cv2.imread(input_path)
 
-
+#present background image, input image, portrait part of input image and the final output image
 cv2.imshow("BackGround",background_img)
 cv2.waitKey(0)
 
